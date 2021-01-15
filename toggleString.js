@@ -1,3 +1,5 @@
+//toggle string into upper case to lower case and vice versa
+
 const main = (string) =>{
 	let result = [];
 	[...string].forEach(str=>{
